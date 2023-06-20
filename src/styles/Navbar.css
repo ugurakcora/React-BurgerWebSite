@@ -13,7 +13,7 @@
   align-items: center;
   padding-left: 150px;
 }
-.navbar .mainLink {
+.navbar .main__link {
   margin-left: auto;
   margin-right: 50px;
 }
@@ -46,7 +46,7 @@
   .navbar .main a {
     font-size: 13px;
   }
-  .navbar .mainLink {
+  .navbar .main__link {
     margin: 0;
   }
 }
