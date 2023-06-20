@@ -18,8 +18,6 @@ const Menu = () => {
                 <div className="menuTitle">
                   <h2>{name}</h2>
                   <p>{content}</p>
-                </div>
-                <div className="menuPrice">
                   <p>{price} TL</p>
                 </div>
               </div>
